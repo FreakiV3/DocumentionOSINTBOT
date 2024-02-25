@@ -4,7 +4,6 @@
 ```
 # Bot Discord d'analyse de photos et de comparaison de visages par RocketGod
 # https://github.com/RocketGod-git/rekognition-bot
-```
 
 ## Description
 Le bot Discord `rekognition-bot.py` est un assistant qui utilise Amazon Rekognition pour analyser des photos, détecter des objets, reconnaître des célébrités, effectuer une analyse faciale, et comparer des visages. Il permet aux utilisateurs de Discord d'obtenir des informations détaillées sur des photos spécifiques, y compris la détection d'objets, la reconnaissance de célébrités, et l'analyse faciale.
@@ -39,4 +38,3 @@ Le bot Discord `rekognition-bot.py` est un assistant qui utilise Amazon Rekognit
 ## Remarques
 - Assurez-vous que le bot dispose des autorisations nécessaires sur votre serveur Discord pour exécuter les commandes spécifiées dans le script.
 - Pour utiliser la comparaison de visages, assurez-vous que votre compte AWS a l'accès approprié à Amazon Rekognition.
-```
