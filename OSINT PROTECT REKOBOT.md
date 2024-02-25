@@ -1,7 +1,5 @@
-```markdown
 # Documentation du Bot Discord `rekognition-bot.py`
 
-```
 # Bot Discord d'analyse de photos et de comparaison de visages par RocketGod
 # https://github.com/RocketGod-git/rekognition-bot
 
